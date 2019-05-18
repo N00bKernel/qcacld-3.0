@@ -1,4 +1,4 @@
-KERNEL_SRC ?= /lib/modules/$(shell uname -r)/build
+KERNEL_SRC ?= ~/50G/rm2pk/
 
 KBUILD_OPTIONS := WLAN_ROOT=$(PWD)
 KBUILD_OPTIONS += MODNAME?=wlan
