@@ -1,0 +1,9 @@
+.*.o
+.*.cmd
+*.cmd
+*.o
+.*.d
+*.ko
+*builtin.o
+*.mod.c
+*.order
